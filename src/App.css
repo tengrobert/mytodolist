@@ -1,0 +1,22 @@
+.todo{
+  float: left;
+  width: 30vw;
+  height: 40vh;
+}
+.display{
+  display: block;
+}
+.nodisplay{
+  display: none;
+}
+.default{
+  text-decoration: line;
+}
+.complete{
+  text-decoration: line-through;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
